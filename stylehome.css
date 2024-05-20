@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"poppins",sans-serif;
+    color: azure;
+}
+
+body{
+    background-color: #c9d6ff;
+    background:linear-gradient(to right,#e2e2e2,#c9d6ff);
+    background-image: url(landing\ page.png);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#main_title{
+text-align: center ;
+background-color: #333;
+color:#e2e2e2;
+padding: 20px;
+letter-spacing: 2px;
+font-weight: 500;
+
+
+}
+
+.box1 h2{
+    float: left;
+}
+
+.box1 button{
+float: right;
+
+}
